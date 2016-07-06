@@ -1,0 +1,22 @@
+{
+    "name": "execter/firstpackage",
+    "type": "library",
+    "description": "First laravel package",
+    "keywords": ["first","firstpackage"],
+    "homepage": "https://github.com/execter/firstpackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Execter",
+            "email": "execter@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-0": {
+            "Execter": "src"
+        }
+    }
+}
