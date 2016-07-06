@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Execter\\Firstpackage": "src"
+            "Execter\\Firstpackage\\": "src/"
         }
     }
 }
