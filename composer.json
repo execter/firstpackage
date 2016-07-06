@@ -17,8 +17,8 @@
         "php": ">=5.5.9"
     },
     "autoload": {
-        "psr-0": {
-            "Execter": "src"
+        "psr-4": {
+            "Execter\\Firstpackage": "src"
         }
     }
 }
