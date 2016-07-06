@@ -11,6 +11,8 @@
             "email": "execter@gmail.com"
         }
     ],
+    "minimum-stability" : "dev",
+    "prefer-stable" : true,
     "require": {
         "php": ">=5.5.9"
     },
